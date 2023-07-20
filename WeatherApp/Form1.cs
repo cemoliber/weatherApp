@@ -19,7 +19,7 @@ namespace WeatherApp
             InitializeComponent();
         }
 
-        String APIKey = "3128285b8b7a7affd3e44d1f82657783";
+        String APIKey = "OpenWeatherKey";
         
 
         public void btnSearch_Click(object sender, EventArgs e)
